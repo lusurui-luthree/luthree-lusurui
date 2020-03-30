@@ -11,7 +11,7 @@
 官方q群：966824579
 <br>
 <br>
-[自家学派官网]（http://zjxp.mysxl.cn）
+[自家学派官网](zjxp.mysxl.cn)
 <br>
 [luthree集团官网](http://luthreejt.mysxl.cn)
 <br>
