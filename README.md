@@ -8,7 +8,8 @@
 用“小于号+ br +大于号”来换行
 <br>
 < BR >
-官方q
+官方q群：
+<br>
 [自家学派官网]（http://zjxp.mysxl.cn）
 < BR >
 [luthree集团官网](http://luthreejt.mysxl.cn)
