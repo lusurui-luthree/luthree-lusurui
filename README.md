@@ -10,4 +10,4 @@
 <br>
 [luthree集团官网](http://luthreejt.mysxl.cn)
 <br>
-[luthree集团官方论坛](http://threebbd.forums-free.com)
+[luthree集团官方论坛](http://threebbs.forums-free.com)
