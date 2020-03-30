@@ -15,4 +15,7 @@
 <br>
 [luthree集团官网](http://luthreejt.mysxl.cn)
 <br>
-[luthree集团官方论坛](http://threebbs.forums-free.com)
+[luthree集团官方论坛] （http://threebbs.forums-free.com）
+<br>
+<br>
+自家学派隶属于luthree集团
