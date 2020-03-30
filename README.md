@@ -14,9 +14,9 @@
 <br>
 [自家学派官网](zjxp.mysxl.cn)
 <br>
-[luthree集团官网](http://luthreejt.mysxl.cn)
+[luthree集团官网](luthreejt.mysxl.cn)
 <br>
-[luthree集团官方论坛](threebbs.forum.com)
+[luthree集团官方论坛](threebbs.forums-free.com)
 <br>
 <br>
 自家学派隶属于luthree集团
