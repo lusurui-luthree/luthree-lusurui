@@ -1,6 +1,3 @@
-＃luthreejt-zjxp
-
-<br>
 这是luthree集团和自家学派的资料库
 
 <br>
