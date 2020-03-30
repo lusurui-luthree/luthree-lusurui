@@ -1,4 +1,5 @@
 这是luthree集团和自家学派的资料库
+-
 <br>
 你可以在这里得到一切有关于luthree集团和自家学派的资料
 <br>
@@ -15,7 +16,7 @@
 <br>
 [luthree集团官网](http://luthreejt.mysxl.cn)
 <br>
-[luthree集团官方论坛](threebbs.forums-free.com)
+[luthree集团官方论坛](threebbs.forum.com)
 <br>
 <br>
 自家学派隶属于luthree集团
