@@ -12,11 +12,11 @@
 官方q群：966824579
 <br>
 <br>
-[自家学派官网](zjxp.mysxl.cn)
+自家学派官网(http://zjxp.mysxl.cn)
 <br>
-[luthree集团官网](luthreejt.mysxl.cn)
+luthree集团官网(http://luthreejt.mysxl.cn)
 <br>
-[luthree集团官方论坛](threebbs.forums-free.com)
+luthree集团官方论坛(http://threebbs.forums-free.com)
 <br>
 <br>
-自家学派隶属于luthree集团
+自家学派隶属于luthree集团.
