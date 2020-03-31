@@ -24,6 +24,6 @@ luthree集团官方论坛：http://threebbs.forums-free.com
 <br>
 <br>
 新闻
--
 <br>
-。。。
+<br>
+暂未开放
