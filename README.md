@@ -1,4 +1,5 @@
-#这是luthree集团和自家学派的资料库
+这是luthree集团和自家学派的资料库
+======
 <br>
 你可以在这里得到一切有关于luthree集团和自家学派的资料
 <br>
@@ -22,7 +23,8 @@ luthree集团官方论坛：http://threebbs.forums-free.com
 <br>
 <br>
 <br>
-##新闻
+新闻
+--
 <br>
 <br>
 暂未开放
