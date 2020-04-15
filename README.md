@@ -24,6 +24,11 @@ luthree集团官方论坛：http://threebbs.forums-free.com
 <br>
 <br>
 
+luthree城安装包
+--
+此为测试版，仅限luthree集团内部成员使用
+<br>
+
 新闻
 --
 <br>
