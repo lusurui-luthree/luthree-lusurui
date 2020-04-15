@@ -28,9 +28,18 @@ luthree城安装包
 --
 此为测试版，仅限luthree集团内部成员使用
 <br>
+您如果下载了`luthree城`安装包，请把`luthree城.001,luthree城.002,luthree城.003`等分卷文件与`luthree城.exe`安装文件放置在同一目录下再安装
+<br>
+<br>
 
 新闻
 --
 <br>
 <br>
 暂未开放
+
+<br>
+<br>
+
+```c
+printf(":)");
