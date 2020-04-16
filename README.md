@@ -31,6 +31,10 @@ luthree城安装包
 <br>
 <br>
 
+###最新版请到luthree的lofter上获取，网址：luthree.lofter.com
+<br>
+<br>
+
 新闻
 --
 <br>
