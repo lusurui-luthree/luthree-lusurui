@@ -30,7 +30,7 @@ luthree城安装包
 <br>
 <br>
 
-### luthree浏览器上线！！！，可以在GitHub上下载。
+### luthree浏览器上线！！！，可以在GitHub上下载。网址：https://github.com/lusurui-luthree/luthreejt-zjxp/blob/master/Luthree%E6%B5%8F%E8%A7%88%E5%99%A8.exe
 <br>
 <br>
 
