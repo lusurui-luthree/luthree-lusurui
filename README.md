@@ -30,6 +30,10 @@ luthree城安装包
 <br>
 <br>
 
+### luthree浏览器上线！！！，可以在GitHub上下载。
+<br>
+<br>
+
 新闻
 --
 <br>
